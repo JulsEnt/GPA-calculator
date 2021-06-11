@@ -1,0 +1,87 @@
+body{
+    padding: 0%;
+    width:100%;
+    margin: 0%;
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url(./IMAGE/Artboard\ 1.png);
+    background-repeat: none;
+    background-position: center;
+    background-size: cover;
+}
+.form-control1{
+    margin-top: 10px;
+}
+#input1, #input2, #input3, #input4, #input5, #input6, #input7, #input8, #input9{
+    padding: 10px;
+    width: 30%;
+    outline:none;
+    border-radius: 5px;
+    border: none;
+}
+#unit1, #unit2, #unit3, #unit4, #unit5, #unit6, #unit7, #unit8, #unit9{
+    padding: 7px;
+    width: 30%;
+    outline: none;
+    border-radius: 5px;
+    border: none;
+}
+#grade1, #grade2 ,#grade3, #grade4, #grade5, #grade6, #grade7, #grade8, #grade9{
+    padding: 7px;
+    width: 30%;
+    outline:none;
+    border-radius: 5px;
+    border: none;
+}
+.contain-all{
+    width: 100%;
+    height: 100vh;
+}
+.contain{
+    float: right;
+    margin-right: 5%;
+    width: 50%;
+    height:600px ;
+    background-color: rgb(243, 171, 39);
+    margin-top: 20px;
+    box-shadow: 2px 2px 2px 2px solid gray;
+    border-radius: 10px;
+
+}
+.tittle{
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+.hold{
+    padding-left: 2%;
+    margin-top: -5%;
+}
+.btn{
+    margin-top: 10px;
+}
+#submit-btn{
+    padding: 7px;
+    background-color: rgb(235, 235, 235);
+    color: rgb(34, 30, 30);
+    font-size: 10px;
+    border: none;
+    border-radius: 5px;
+}
+.output{
+    width: 20%;
+    height: 30px;
+    float: right;
+    margin-right: 50%;
+    border-radius: 10px;
+    color: black;
+    text-align: center;
+    padding: 5px;
+}
+.gp{
+    font-size: 22px;
+    padding: 1px;
+}
+.name{
+    width: 98%;
+    height: 30px;
+}
